@@ -35,7 +35,6 @@
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
-  <a href="#license">License</a>
 </p>
 
 ## Key Features
@@ -46,13 +45,9 @@
 * Export report into PDF
 
 ## About
-Cassandra is a Web-based software toolkit that provides an electrocardiographic (ECG) signal visualization.
+Dhadkan is a Web-based software toolkit that provides an electrocardiographic (ECG) signal visualization.
 
-Project recognitions:
-+ 1st prize winner in National Instrument design for Young Entrepreneur competition 2018 with a total of $ 4,000 grand prize.
-+ Product Demo Exhibition at Austin Texas - United State of America 2018
-+ Top 5 products of the MIT Challenge 2018 competition
-+ Top 3 products are funded from the Saigon Innovation Hub 
+ 
 
 ## How To Use
 
@@ -91,7 +86,7 @@ nativefier ecg.gramme.io
 
 ## Emailware
 
-Cassand.io is an [emailware](https://en.wiktionary.org/wiki/emailware) of [Gramme.io](https://gramme.io). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <support@gramme.io> about anything you'd want to say about this software. I'd really appreciate it!
+Dhadkan.io is an [emailware](https://en.wiktionary.org/wiki/emailware) of [Gramme.io](https://gramme.io). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <support@gramme.io> about anything you'd want to say about this software. I'd really appreciate it!
 
 ## Credits
 
@@ -101,15 +96,8 @@ This software uses the following open source packages:
 - [Node.js](https://nodejs.org/)
 - [Angular.js](https://github.com/angular.js)
 
-## Support
-
-<a href="https://www.patreon.com/gramme" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6NDTpoGl2cBt8vLBN71pOaVpPwMSH2kXdQ&usqp=CAU" alt="Buy Me A Coffee" style="height: 25px !important;width: 94px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;border-radius:4px;" ></a>
-
-## License
-
-MIT
 
 ---
 
-> Made by @Nicheal at [gramme.io](https://gramme.io)
+> Made by Fantastic 6
 
