@@ -10,32 +10,6 @@
 <h4 align="center">A web-based Electrocardiogram signal visualization tool. Demo is available <a href="https://ecg.gramme.io" target="_blank">Here</a>.</h4>
 
 <p align="center">
-  <a>
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a>
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://opencollective.com/cassand">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-</p>
-<a href="https://www.youtube.com/watch?v=YXcC-purj9E">
-    <img src="https://nichealpham.github.io/Cassandra-project/public/images/Capture2_1.png"
-    alt="Gitter">
-  </a>
-<p align="center">
-  • <a href="https://www.youtube.com/watch?v=YXcC-purj9E">Video demonstration</a>
-</p>
-<p align="center">
-  • <a href="#key-features">Key Features</a>
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-</p>
 
 ## Key Features
 
