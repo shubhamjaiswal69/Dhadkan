@@ -42,25 +42,18 @@ $ npm install
 $ npm start
 ```
 
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 ### 2. Run as a Web Hosting
 Copy the files within the folder `public` into your web hosting.
 
 And that is it. Enjoy! 
 
-### 3. Run as a Desktop app
-
-You can [download](https://drive.google.com/file/d/1xuYuao96Ice6CXGpbwkxWhhNfZSQ0VhG/view?usp=sharing) the latest installable version of this app and run as web-tool.
 
 This build is made available with [nativefier](https://github.com/jiahaog/nativefier).
 ```
 nativefier ecg.gramme.io
 ```
 
-## Emailware
-
-Dhadkan.io is an [emailware](https://en.wiktionary.org/wiki/emailware) of [Gramme.io](https://gramme.io). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <support@gramme.io> about anything you'd want to say about this software. I'd really appreciate it!
 
 ## Credits
 
